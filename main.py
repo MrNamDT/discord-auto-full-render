@@ -60,4 +60,4 @@ if __name__ == "__main__":
     print("▶️ Bắt đầu gửi tin nhắn mỗi 2 giờ...")
     while True:
         send_message()
-        time.sleep(30)
+        time.sleep(3600)
